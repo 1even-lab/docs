@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1480 812" width="1480" height="812" role="img" aria-label="Путь запроса через 1even Platform">
+<defs>
+  <linearGradient id="inside" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="rgba(214,255,61,0.05)"/><stop offset="0.55" stop-color="rgba(157,157,214,0.03)"/><stop offset="1" stop-color="rgba(157,157,214,0.015)"/></linearGradient>
+  <marker id="arl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#D6FF3D"/></marker>
+  <marker id="arm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#8B94A7"/></marker>
+  <marker id="arv" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#9D9DD6"/></marker>
+</defs>
+<rect x="204" y="96" width="196" height="354" rx="16" fill="rgba(214,255,61,0.025)" stroke="#D6FF3D" stroke-width="1.5" stroke-dasharray="7 6"/>
+<text x="20" y="84" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">ЗАПРОС</text>
+<rect x="20" y="96" width="158" height="226" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="34" y="118" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">ЛЮДИ</text>
+<text x="34" y="140" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">Slack</text>
+<text x="34" y="161" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">веб-интерфейс</text>
+<text x="34" y="182" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">Claude Desktop</text>
+<text x="34" y="203" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">Claude Code</text>
+<text x="34" y="224" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">REST API</text>
+<text x="34" y="257" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">БЕЗ ЧЕЛОВЕКА</text>
+<text x="34" y="279" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">расписание</text>
+<text x="34" y="300" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">алерт</text>
+<text x="20" y="346" font-family="'Inter',sans-serif" font-size="11.5" font-weight="400" fill="#9D9DD6" text-anchor="start">Модель может работать на</text>
+<text x="20" y="362" font-family="'Inter',sans-serif" font-size="11.5" font-weight="400" fill="#9D9DD6" text-anchor="start">стороне клиента. Права и</text>
+<text x="20" y="378" font-family="'Inter',sans-serif" font-size="11.5" font-weight="400" fill="#9D9DD6" text-anchor="start">журнал всегда на</text>
+<text x="20" y="394" font-family="'Inter',sans-serif" font-size="11.5" font-weight="400" fill="#9D9DD6" text-anchor="start">платформе.</text>
+<text x="204" y="84" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1.4">ПЕРИМЕТР</text>
+<rect x="216" y="110" width="172" height="114" rx="12" fill="rgba(214,255,61,0.04)" stroke="#D6FF3D" stroke-width="1"/>
+<text x="230" y="134" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Вход</text>
+<text x="230" y="154" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Корпоративный SSO.</text>
+<text x="230" y="172" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">MFA и политика</text>
+<text x="230" y="190" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">устройств остаются у</text>
+<text x="230" y="208" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">вас.</text>
+<rect x="216" y="234" width="172" height="96" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="230" y="258" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Токен</text>
+<text x="230" y="278" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Открывает одну</text>
+<text x="230" y="296" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">плоскость: REST, /mcp</text>
+<text x="230" y="314" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">или раннер проекта.</text>
+<rect x="216" y="340" width="172" height="96" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="230" y="364" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Сеть</text>
+<text x="230" y="384" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Платформа доступна из</text>
+<text x="230" y="402" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">вашей сети или через</text>
+<text x="230" y="420" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">туннель.</text>
+<line x1="182" y1="230" x2="199" y2="230" stroke="#8B94A7" stroke-width="1.4" marker-end="url(#arm)"/>
+<rect x="428" y="96" width="878" height="696" rx="18" fill="url(#inside)" stroke="#2A3140"/>
+<text x="444" y="84" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1.4">1EVEN PLATFORM · ВНУТРИ ВАШЕЙ СЕТИ</text>
+<line x1="404" y1="230" x2="439" y2="230" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<text x="444" y="122" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">КТО СПРАШИВАЕТ</text>
+<rect x="444" y="134" width="184" height="112" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="458" y="158" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Роль в организации</text>
+<text x="458" y="178" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">viewer · user ·</text>
+<text x="458" y="195" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">data_analyst ·</text>
+<text x="458" y="212" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">developer · devops ·</text>
+<text x="458" y="229" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">data_steward · admin</text>
+<rect x="444" y="256" width="184" height="97" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="458" y="280" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Уровень на проекте</text>
+<text x="458" y="300" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">none &lt; read &lt; write</text>
+<text x="458" y="319" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Нужны и роль, и</text>
+<text x="458" y="337" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">уровень.</text>
+<rect x="444" y="363" width="184" height="96" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="458" y="387" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Роль в хранилище</text>
+<text x="458" y="407" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Какие строки вернутся,</text>
+<text x="458" y="425" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">решают гранты</text>
+<text x="458" y="443" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">хранилища.</text>
+<rect x="444" y="469" width="184" height="96" rx="12" fill="rgba(157,157,214,0.05)" stroke="#9D9DD6" stroke-width="1"/>
+<text x="458" y="493" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Отказ по умолчанию</text>
+<text x="458" y="513" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Нет человека, проекта</text>
+<text x="458" y="531" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">или уровня: вызов</text>
+<text x="458" y="549" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">отклоняется.</text>
+<text x="662" y="122" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">КАК ВЫПОЛНЯЕТСЯ РАБОТА</text>
+<rect x="662" y="134" width="418" height="160" rx="12" fill="#151A22" stroke="#D6FF3D"/>
+<text x="676" y="156" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1.4">РЕЖИМ 1</text>
+<text x="676" y="178" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Разговорная петля</text>
+<text x="676" y="198" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Менеджер с инструментами чтения: метрики, SQL, логи</text>
+<text x="676" y="216" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">пайплайнов, вики, репозиторий. Записать он не может, может</text>
+<text x="676" y="234" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">предложить.</text>
+<rect x="676" y="254" width="52" height="26" rx="7" fill="#1A1F29" stroke="#3A4358" stroke-width="1"/>
+<text x="702.0" y="271" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="middle">чтение</text>
+<line x1="730" y1="267" x2="740" y2="267" stroke="#8B94A7" stroke-width="1.1" marker-end="url(#arm)"/>
+<rect x="742" y="254" width="71" height="26" rx="7" fill="#1A1F29" stroke="#3A4358" stroke-width="1"/>
+<text x="777.5" y="271" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="middle">propose_*</text>
+<line x1="815" y1="267" x2="825" y2="267" stroke="#8B94A7" stroke-width="1.1" marker-end="url(#arm)"/>
+<rect x="827" y="254" width="71" height="26" rx="7" fill="#1A1F29" stroke="#D6FF3D" stroke-width="1"/>
+<text x="862.5" y="271" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="middle">одобрение</text>
+<line x1="900" y1="267" x2="910" y2="267" stroke="#8B94A7" stroke-width="1.1" marker-end="url(#arm)"/>
+<rect x="912" y="254" width="83" height="26" rx="7" fill="#1A1F29" stroke="#3A4358" stroke-width="1"/>
+<text x="953.5" y="271" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="middle">исполнитель</text>
+<line x1="997" y1="267" x2="1007" y2="267" stroke="#8B94A7" stroke-width="1.1" marker-end="url(#arm)"/>
+<rect x="1009" y="254" width="64" height="26" rx="7" fill="#1A1F29" stroke="#3A4358" stroke-width="1"/>
+<text x="1041.0" y="271" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="middle">Draft MR</text>
+<rect x="662" y="306" width="418" height="142" rx="12" fill="#151A22" stroke="#2A3140"/>
+<text x="676" y="328" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1.4">РЕЖИМ 2</text>
+<text x="676" y="350" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Графы</text>
+<text x="676" y="370" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Фиксированные сценарии: анализ, отчёты, дайджесты,</text>
+<text x="676" y="388" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">проверки качества, синхронизации.</text>
+<rect x="676" y="408" width="52" height="26" rx="7" fill="#1A1F29" stroke="#3A4358" stroke-width="1"/>
+<text x="702.0" y="425" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="middle">triage</text>
+<line x1="730" y1="421" x2="740" y2="421" stroke="#8B94A7" stroke-width="1.1" marker-end="url(#arm)"/>
+<rect x="742" y="408" width="58" height="26" rx="7" fill="#1A1F29" stroke="#3A4358" stroke-width="1"/>
+<text x="771.0" y="425" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="middle">analyst</text>
+<line x1="802" y1="421" x2="812" y2="421" stroke="#8B94A7" stroke-width="1.1" marker-end="url(#arm)"/>
+<rect x="814" y="408" width="52" height="26" rx="7" fill="#1A1F29" stroke="#3A4358" stroke-width="1"/>
+<text x="840.0" y="425" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="middle">review</text>
+<line x1="868" y1="421" x2="878" y2="421" stroke="#8B94A7" stroke-width="1.1" marker-end="url(#arm)"/>
+<rect x="880" y="408" width="64" height="26" rx="7" fill="#1A1F29" stroke="#D6FF3D" stroke-width="1"/>
+<text x="912.0" y="425" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="middle">artifact</text>
+<rect x="662" y="460" width="418" height="146" rx="12" fill="#151A22" stroke="#2A3140"/>
+<text x="676" y="482" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1.4">РЕЖИМ 3</text>
+<text x="676" y="504" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Роутер /mcp</text>
+<text x="676" y="524" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Рассуждает модель клиента. Платформа проверяет права,</text>
+<text x="676" y="542" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">подставляет ключи и возвращает данные вместе со знанием о</text>
+<text x="676" y="560" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">них.</text>
+<text x="676" y="590" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="start">query_metric · clickhouse_query · memory_search</text>
+<line x1="632" y1="214.0" x2="657" y2="214.0" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<text x="1114" y="122" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">ГЕЙТ</text>
+<rect x="1114" y="134" width="176" height="174" rx="12" fill="rgba(157,157,214,0.05)" stroke="#9D9DD6"/>
+<text x="1128" y="158" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">mcp_call</text>
+<text x="1140" y="186" font-family="'Inter',sans-serif" font-size="12" font-weight="400" fill="#8B94A7" text-anchor="start">права на каждый вызов</text>
+<circle cx="1131" cy="182" r="2" fill="#9D9DD6"/>
+<text x="1140" y="207" font-family="'Inter',sans-serif" font-size="12" font-weight="400" fill="#8B94A7" text-anchor="start">проект, которого</text>
+<text x="1140" y="224" font-family="'Inter',sans-serif" font-size="12" font-weight="400" fill="#8B94A7" text-anchor="start">касается вызов</text>
+<circle cx="1131" cy="203" r="2" fill="#9D9DD6"/>
+<text x="1140" y="245" font-family="'Inter',sans-serif" font-size="12" font-weight="400" fill="#8B94A7" text-anchor="start">ключ из Vault, на</text>
+<text x="1140" y="262" font-family="'Inter',sans-serif" font-size="12" font-weight="400" fill="#8B94A7" text-anchor="start">сервере</text>
+<circle cx="1131" cy="241" r="2" fill="#9D9DD6"/>
+<text x="1140" y="283" font-family="'Inter',sans-serif" font-size="12" font-weight="400" fill="#8B94A7" text-anchor="start">запись в журнал</text>
+<circle cx="1131" cy="279" r="2" fill="#9D9DD6"/>
+<rect x="1114" y="318" width="146" height="114" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="1128" y="342" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Vault</text>
+<text x="1128" y="362" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Агент видит имена</text>
+<text x="1128" y="380" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">ключей. Значения</text>
+<text x="1128" y="398" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">в модель не</text>
+<text x="1128" y="416" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">попадают.</text>
+<path d="M 1084 214.0 H 1097 V 221.0 H 1109" fill="none" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<path d="M 1084 377.0 H 1097 V 221.0 H 1109" fill="none" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<path d="M 1084 533.0 H 1097 V 221.0 H 1109" fill="none" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<rect x="444" y="640" width="428" height="116" rx="12" fill="rgba(214,255,61,0.04)" stroke="#D6FF3D" stroke-width="1"/>
+<text x="458" y="662" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1.4">ЗНАНИЕ</text>
+<text x="458" y="684" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Что агент знает до ответа</text>
+<text x="458" y="704" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Карта данных проекта, каталог метрик, память и скиллы. Под</text>
+<text x="458" y="722" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">задачу собирается небольшой блок. Записи, предложенные</text>
+<text x="458" y="740" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">моделью, утверждает человек.</text>
+<rect x="888" y="640" width="402" height="134" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="902" y="662" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">ЖУРНАЛ</text>
+<text x="902" y="684" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Что записывается</text>
+<text x="902" y="704" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">agent_interactions · agent_audit · approvals ·</text>
+<text x="902" y="721" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">work_outcomes</text>
+<text x="902" y="740" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Шаги агента, вызовы инструментов, одобрения и оценка</text>
+<text x="902" y="758" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">результата.</text>
+<line x1="752" y1="636" x2="752" y2="611" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<text x="760" y="628" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#D6FF3D" text-anchor="start">знание под задачу</text>
+<line x1="1276" y1="312" x2="1276" y2="635" stroke="#9D9DD6" stroke-width="1.4" marker-end="url(#arv)" stroke-dasharray="4 4"/>
+<text x="1268" y="628" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#9D9DD6" text-anchor="end">каждый вызов</text>
+<text x="1332" y="84" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">ВАШИ СИСТЕМЫ</text>
+<rect x="1332" y="134" width="128" height="214" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="1346" y="162" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">ClickHouse</text>
+<text x="1346" y="187" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">DuckDB</text>
+<text x="1346" y="212" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">Airflow</text>
+<text x="1346" y="237" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">GitLab</text>
+<text x="1346" y="262" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">Outline</text>
+<text x="1346" y="287" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">Asana</text>
+<text x="1346" y="312" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="12" font-weight="400" fill="#F2F4F8" text-anchor="start">Slack</text>
+<text x="1332" y="372" font-family="'Inter',sans-serif" font-size="11.5" font-weight="400" fill="#8B94A7" text-anchor="start">Чтение идёт сразу.</text>
+<text x="1332" y="388" font-family="'Inter',sans-serif" font-size="11.5" font-weight="400" fill="#8B94A7" text-anchor="start">Запись выполняется</text>
+<text x="1332" y="404" font-family="'Inter',sans-serif" font-size="11.5" font-weight="400" fill="#8B94A7" text-anchor="start">после одобрения</text>
+<text x="1332" y="420" font-family="'Inter',sans-serif" font-size="11.5" font-weight="400" fill="#8B94A7" text-anchor="start">человека.</text>
+<line x1="1294" y1="221.0" x2="1327" y2="221.0" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<path d="M 871.0 130 V 40 H 99.0 V 74" fill="none" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<text x="430" y="31" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#D6FF3D" text-anchor="start">ответ возвращается: тред в чате · канал Slack · личные сообщения · PDF · страница отчёта</text>
+</svg>
