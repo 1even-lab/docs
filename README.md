@@ -38,7 +38,7 @@ If you hand this repository to an agent (Claude Code, Codex, Cursor), point it a
 | [`diagrams/`](diagrams/) | SVG diagrams. English: [request path](diagrams/request-path.en.svg), [memory](diagrams/memory.en.svg). Russian: [путь запроса](diagrams/request-path.svg), [память](diagrams/memory.svg) |
 
 Files without a language suffix are Russian; `.en` marks the English edition. Both
-editions carry the same content and describe platform version 0.21.0.
+editions carry the same content and describe platform version 0.21.1.
 
 The CAPTURE Framework, the method 1even.lab uses to introduce agentic analytics, lives in
 its own repository, `1even-lab/capture-framework`.
