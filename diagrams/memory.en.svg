@@ -1,0 +1,160 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1480 863" width="1480" height="863" role="img" aria-label="How memory works in 1even Platform">
+<defs>
+  <linearGradient id="inside" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="rgba(214,255,61,0.05)"/><stop offset="0.55" stop-color="rgba(157,157,214,0.03)"/><stop offset="1" stop-color="rgba(157,157,214,0.015)"/></linearGradient>
+  <marker id="arl" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#D6FF3D"/></marker>
+  <marker id="arm" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#8B94A7"/></marker>
+  <marker id="arv" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10 z" fill="#9D9DD6"/></marker>
+</defs>
+<text x="20" y="84" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">SOURCES</text>
+<rect x="20" y="96" width="250" height="131" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="34" y="120" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">A person</text>
+<text x="34" y="140" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Writes in the UI, from chat or</text>
+<text x="34" y="158" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">from Claude. Before saving, the</text>
+<text x="34" y="176" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">platform looks for similar</text>
+<text x="34" y="194" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">records.</text>
+<text x="34" y="214" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="9.5" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1.1">ACTIVE AT ONCE</text>
+<rect x="20" y="237" width="250" height="113" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="34" y="261" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Review of a finished task</text>
+<text x="34" y="281" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">The model reads the conversation</text>
+<text x="34" y="299" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">and extracts up to five records</text>
+<text x="34" y="317" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">worth keeping.</text>
+<text x="34" y="337" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="9.5" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.1">CANDIDATE ONLY</text>
+<rect x="20" y="360" width="250" height="96" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="34" y="384" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Wiki</text>
+<text x="34" y="404" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Pages from an allowlist are</text>
+<text x="34" y="422" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">imported. The platform does not</text>
+<text x="34" y="440" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">read the rest.</text>
+<rect x="20" y="466" width="250" height="78" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="34" y="490" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Repository</text>
+<text x="34" y="510" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Team conventions, skills and</text>
+<text x="34" y="528" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">metric definitions as code.</text>
+<rect x="20" y="554" width="250" height="114" rx="12" fill="none" stroke="#3A4358" stroke-width="1" stroke-dasharray="5 5"/>
+<text x="34" y="578" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Warehouse</text>
+<text x="34" y="598" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Tables and their comments become</text>
+<text x="34" y="616" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">the data catalogue. It is a map</text>
+<text x="34" y="634" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">of what exists, kept apart from</text>
+<text x="34" y="652" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">memory.</text>
+<text x="304" y="84" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1.4">REVIEW</text>
+<rect x="304" y="96" width="226" height="446" rx="16" fill="rgba(214,255,61,0.025)" stroke="#D6FF3D" stroke-width="1.5" stroke-dasharray="7 6"/>
+<rect x="316" y="110" width="202" height="150" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="330" y="134" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Daily check</text>
+<text x="330" y="154" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Duplicates and noise are</text>
+<text x="330" y="172" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">removed automatically. The</text>
+<text x="330" y="190" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">remaining records get an</text>
+<text x="330" y="208" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">automatic preliminary</text>
+<text x="330" y="226" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">verdict: accept, reject,</text>
+<text x="330" y="244" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">unsure.</text>
+<rect x="316" y="270" width="202" height="114" rx="12" fill="rgba(214,255,61,0.04)" stroke="#D6FF3D" stroke-width="1"/>
+<text x="330" y="294" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">A person decides</text>
+<text x="330" y="314" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">A record is approved by</text>
+<text x="330" y="332" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">someone with the</text>
+<text x="330" y="350" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">data_steward role. That</text>
+<text x="330" y="368" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">role cannot run tasks.</text>
+<rect x="316" y="394" width="202" height="134" rx="12" fill="rgba(157,157,214,0.05)" stroke="#9D9DD6" stroke-width="1"/>
+<text x="330" y="418" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Can it leave the</text>
+<text x="330" y="438" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">project</text>
+<text x="330" y="458" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Not by default. Only</text>
+<text x="330" y="476" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">procedures, lessons,</text>
+<text x="330" y="494" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">conventions and skills can</text>
+<text x="330" y="512" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">be portable.</text>
+<text x="564" y="84" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">PROJECT MEMORY</text>
+<rect x="564" y="96" width="280" height="537" rx="16" fill="url(#inside)" stroke="#2A3140" stroke-width="1"/>
+<rect x="576" y="110" width="256" height="93" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="590" y="132" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">RECORD TYPE</text>
+<text x="590" y="152" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">fact · glossary · note ·</text>
+<text x="590" y="169" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">procedure · convention · lesson ·</text>
+<text x="590" y="186" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">skill · handoff</text>
+<rect x="576" y="213" width="256" height="76" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="590" y="235" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">WHO CAN READ</text>
+<text x="590" y="255" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">one person · project · whole</text>
+<text x="590" y="272" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">company</text>
+<rect x="576" y="299" width="256" height="112" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="590" y="321" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">STATE</text>
+<rect x="590" y="333" width="71" height="26" rx="7" fill="#1A1F29" stroke="#3A4358" stroke-width="1"/>
+<text x="625.5" y="350" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="middle">candidate</text>
+<line x1="663" y1="346" x2="673" y2="346" stroke="#8B94A7" stroke-width="1.1" marker-end="url(#arm)"/>
+<rect x="675" y="333" width="52" height="26" rx="7" fill="#1A1F29" stroke="#D6FF3D" stroke-width="1"/>
+<text x="701.0" y="350" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="middle">active</text>
+<line x1="729" y1="346" x2="739" y2="346" stroke="#8B94A7" stroke-width="1.1" marker-end="url(#arm)"/>
+<rect x="741" y="333" width="64" height="26" rx="7" fill="#1A1F29" stroke="#3A4358" stroke-width="1"/>
+<text x="773.0" y="350" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#F2F4F8" text-anchor="middle">archived</text>
+<text x="590" y="381" font-family="'Inter',sans-serif" font-size="12" font-weight="400" fill="#8B94A7" text-anchor="start">The agent only receives records in</text>
+<text x="590" y="398" font-family="'Inter',sans-serif" font-size="12" font-weight="400" fill="#8B94A7" text-anchor="start">the active state.</text>
+<rect x="576" y="421" width="256" height="112" rx="12" fill="rgba(214,255,61,0.04)" stroke="#D6FF3D" stroke-width="1"/>
+<text x="590" y="443" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1.4">BINDING</text>
+<text x="590" y="463" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">A record can be bound to a table,</text>
+<text x="590" y="481" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">a metric or a value. It then comes</text>
+<text x="590" y="499" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">with every answer that touches</text>
+<text x="590" y="517" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">them.</text>
+<rect x="576" y="543" width="256" height="76" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="590" y="565" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">PROVENANCE</text>
+<text x="590" y="585" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Source, task, owner and a hash of</text>
+<text x="590" y="603" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">the text.</text>
+<text x="878" y="84" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">RETRIEVAL FOR A TASK</text>
+<rect x="878" y="96" width="290" height="479" rx="16" fill="none" stroke="#2A3140" stroke-width="1"/>
+<rect x="890" y="110" width="266" height="103" rx="12" fill="#151A22" stroke="#2A3140"/>
+<text x="904" y="132" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">WHAT GOES INTO THE BLOCK</text>
+<text x="904" y="154" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1">01</text>
+<text x="932" y="154" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#F2F4F8" text-anchor="start">project data map</text>
+<text x="904" y="175" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1">02</text>
+<text x="932" y="175" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#F2F4F8" text-anchor="start">project knowledge</text>
+<text x="904" y="196" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1">03</text>
+<text x="932" y="196" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#F2F4F8" text-anchor="start">company knowledge</text>
+<rect x="890" y="223" width="266" height="112" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="904" y="245" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">HOW IT IS SELECTED</text>
+<text x="904" y="265" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">The words of the question, the</text>
+<text x="904" y="283" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">agent and tool, and semantic</text>
+<text x="904" y="301" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">similarity all count. The access</text>
+<text x="904" y="319" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">filter runs before ranking.</text>
+<rect x="890" y="345" width="266" height="94" rx="12" fill="rgba(214,255,61,0.04)" stroke="#D6FF3D" stroke-width="1"/>
+<text x="904" y="367" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#D6FF3D" text-anchor="start" letter-spacing="1.4">ALWAYS PASSED IN FULL</text>
+<text x="904" y="387" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Bound records and mandatory</text>
+<text x="904" y="405" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">conventions. Without them the</text>
+<text x="904" y="423" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">answer would be wrong.</text>
+<rect x="890" y="449" width="266" height="112" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="904" y="471" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">SIZE LIMIT</text>
+<text x="904" y="491" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">The block has a hard limit. Skills</text>
+<text x="904" y="509" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">go in as pointers and their text</text>
+<text x="904" y="527" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">loads on request. Conversations are</text>
+<text x="904" y="545" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">never included.</text>
+<text x="1202" y="84" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">WHO RECEIVES IT</text>
+<rect x="1202" y="96" width="258" height="78" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="1216" y="120" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Platform agents</text>
+<text x="1216" y="140" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">The block arrives with the task,</text>
+<text x="1216" y="158" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">before the answer starts.</text>
+<rect x="1202" y="184" width="258" height="96" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="1216" y="208" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Claude over /mcp</text>
+<text x="1216" y="228" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Searches memory, loads a skill,</text>
+<text x="1216" y="246" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">saves a conversation as a</text>
+<text x="1216" y="264" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">candidate.</text>
+<rect x="1202" y="290" width="258" height="78" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="1216" y="314" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Data tools</text>
+<text x="1216" y="334" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Return rows together with the</text>
+<text x="1216" y="352" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">records that explain them.</text>
+<rect x="1202" y="378" width="258" height="78" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="1216" y="402" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">Project router</text>
+<text x="1216" y="422" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Uses the data maps to decide which</text>
+<text x="1216" y="440" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">project a question belongs to.</text>
+<line x1="274" y1="246" x2="299" y2="246" stroke="#8B94A7" stroke-width="1.4" marker-end="url(#arm)"/>
+<line x1="534" y1="246" x2="559" y2="246" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<line x1="848" y1="246" x2="873" y2="246" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<line x1="1172" y1="246" x2="1197" y2="246" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<path d="M 240 91 V 44 H 814 V 90" fill="none" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<text x="304" y="35" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#D6FF3D" text-anchor="start">a person&#x27;s record goes straight into memory, skipping the queue</text>
+<rect x="304" y="698" width="540" height="116" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="318" y="720" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">KNOWLEDGE PACK</text>
+<text x="318" y="742" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">The only way out</text>
+<text x="318" y="762" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">An administrator exports only approved, portable, company-level records. A</text>
+<text x="318" y="780" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">filter checks each one again for project names. If the filter cannot build</text>
+<text x="318" y="798" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">the list of names, the export does not run.</text>
+<rect x="878" y="698" width="582" height="117" rx="12" fill="#151A22" stroke="#2A3140" stroke-width="1"/>
+<text x="892" y="720" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10" font-weight="400" fill="#8B94A7" text-anchor="start" letter-spacing="1.4">TELEMETRY</text>
+<text x="892" y="742" font-family="'Space Grotesk','Inter',sans-serif" font-size="15" font-weight="700" fill="#F2F4F8" text-anchor="start">What the agent was shown</text>
+<text x="892" y="762" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#F2F4F8" text-anchor="start">memory_retrievals · memory_skill_loads</text>
+<text x="892" y="781" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">Each retrieval records what was offered and what was loaded. Selection quality is</text>
+<text x="892" y="799" font-family="'Inter',sans-serif" font-size="12.5" font-weight="400" fill="#8B94A7" text-anchor="start">tested against a reference set of questions.</text>
+<line x1="1023.0" y1="579" x2="1023.0" y2="693" stroke="#9D9DD6" stroke-width="1.4" marker-end="url(#arv)" stroke-dasharray="4 4"/>
+<text x="1033.0" y="686" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="10.5" font-weight="400" fill="#9D9DD6" text-anchor="start">every retrieval</text>
+<path d="M 1331.0 819 V 841 H 145.0 V 674" fill="none" stroke="#D6FF3D" stroke-width="1.4" marker-end="url(#arl)"/>
+<text x="304" y="833" font-family="'JetBrains Mono',ui-monospace,monospace" font-size="11" font-weight="400" fill="#D6FF3D" text-anchor="start">a finished task yields new candidates</text>
+</svg>

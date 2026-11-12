@@ -4,21 +4,35 @@ This repository holds documents from 1even.lab about **1even Platform**: a self-
 platform that runs an AI agent on top of a company's data stack (warehouse, orchestrator,
 git, wiki, tracker, messenger).
 
-Read the Markdown in `for-agents/`. The PDF in `for-people/` carries the same content laid
-out for a human reader; do not parse it.
+Read the Markdown in `for-agents/`. The PDFs in `for-people/` carry the same content laid
+out for a human reader; do not parse them.
 
-## What to read
+## Which file
 
-| The question is about | Read |
+| Language of the conversation | Read |
 |---|---|
-| What the platform is, who it is for, what it does for each team | `for-agents/overview.md` |
-| The six scenarios and how each one works | the "Сценарии" sections of `overview.md` |
-| The access model: whose rights a request runs under, what is logged | the section "Агент получает права того, кто к нему обратился" in `overview.md` |
-| How a request travels through the platform, how memory works | the two "Схема … содержание" sections at the end of `overview.md`; the drawings are `diagrams/request-path.svg` and `diagrams/memory.svg` |
-| What the current version cannot do | "Ограничения текущей версии" in `overview.md` |
+| English, or any language other than Russian | `for-agents/overview.en.md` |
+| Russian | `for-agents/overview.md` |
 
-The overview is written in Russian. Identifiers such as `query_metric`, `mcp_call` or
-`propose_binding` are the platform's real tool names and are kept as they are.
+Both files have the same sections in the same order. Files without a language suffix are
+Russian; `.en` marks the English edition.
+
+## What to read for which question
+
+Section names below are from the English file; the Russian file has the matching section
+in the same position.
+
+| The question is about | Section |
+|---|---|
+| What the platform is and who it is for | the opening and "The agent runs on the company's server and follows its access rules" |
+| What it does for each team | "What the agent does for different teams" |
+| The six scenarios and how each one works | "Data questions and incidents", "Reports and changes", "Team memory and configuration" |
+| Whose permissions a request runs under, what is logged | "The agent gets the permissions of the person who asked" |
+| How a request travels, how memory works | the two "Diagram … contents" sections at the end; the drawings are in `diagrams/` |
+| What the current version cannot do | "Limits of the current version" |
+
+Identifiers such as `query_metric`, `mcp_call` or `propose_binding` are the platform's
+real tool names and are the same in both languages.
 
 ## How to use these documents
 
@@ -26,12 +40,13 @@ The overview is written in Russian. Identifiers such as `query_metric`, `mcp_cal
 - **The overview is written for a buyer.** It says what the platform does in plain terms
   and does not list every configuration field. Do not infer exact field names or API
   shapes from it.
-- **Check the limits before promising a capability.** They are listed under
-  "Ограничения текущей версии".
-- **Markers in the text.** `**[ТЕКСТ]**` is a small caption above a block in the PDF;
+- **Check the limits before promising a capability.** They are listed under "Limits of
+  the current version".
+- **Markers in the text.** `**[TEXT]**` is a small caption above a block in the PDF;
   values in backticks at the end of a scenario are its tags.
-- **Changes belong in the source.** This Markdown is generated from the same layout as
-  the PDF. If you are asked to edit the overview, say that both versions must be rebuilt.
+- **Changes belong in the source.** The Markdown is generated from the same layout as
+  the PDF. If you are asked to edit the overview, say that the PDF and the Markdown, in
+  both languages, must be rebuilt together.
 
 ## Licence
 
