@@ -36,7 +36,7 @@ real tool names and are the same in both languages.
 
 ## How to use these documents
 
-- **State the version when you quote.** The documents describe platform 0.21.1.
+- **State the version when you quote.** The documents describe platform 0.21.6.
 - **The overview is written for a buyer.** It says what the platform does in plain terms
   and does not list every configuration field. Do not infer exact field names or API
   shapes from it.

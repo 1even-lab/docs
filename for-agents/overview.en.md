@@ -94,7 +94,7 @@ The platform and the permission model are shared. Projects differ: each team has
 | Analysts | Claude Code or Cursor connected to the DWH, with their own skills. | Everyone has their own formulas and skills, access runs on personal keys, results stay on the laptop. | A shared metric catalogue and skills from git, queries under a personal account, reports published on the platform. |
 | Product and business | They ask a Slack bot or upload an export into a chat with a model. | The bot runs under a service account; the export goes stale. | An answer from the DWH under their own permissions, with the query and the period. Metric subscriptions. |
 | Data engineers and on-call | They go through the log with an agent in the IDE once they sit down to the incident. | The investigation starts in the morning; context is gathered by hand. | The investigation starts from the alert; the fix arrives as a Draft MR for approval. |
-| Development | AI review in the IDE or in CI. | The reviewer does not know the data conventions or the team's past mistakes. | Review that uses project memory, with comments in the MR itself. |
+| Development | AI review in the IDE or in CI. | The reviewer does not know the data conventions or the team's past mistakes. | Review against the repository conventions and project memory: comments in the MR itself, an approval when nothing is broken. |
 | Finance and restricted areas | Agents are not connected: the data is too sensitive. | The team is left without a tool. | A separate project with its own roles; rows go to direct messages only. |
 | Head of data | Hears about agents in conversation. | No view of who uses what, or whether it helps. | An audit log of calls and an outcome review for each task. |
 | Security and IT | They allow agents case by case or ban them. | Keys sit on laptops; the agent's actions are invisible. | Keys in Vault, sign-in through SSO, every action logged. |
@@ -179,9 +179,9 @@ With the platform
 
 The agent takes the task as far as a proposal with a diff and a rationale. A person with write access to the project answers yes or no in the thread. The version they saw is the one applied. Who approved it and when is stored in a separate table.
 
-How it worksThe agent has no write tool, only tools for proposals. After a proposal the task pauses. When approval arrives, the executor applies the proposal without calling the model again, and first checks that the source file has not changed. Code changes open as a Draft MR. The agent reviews other people's MRs the same way and posts its comments.
+How it worksThe agent has no write tool, only tools for proposals. After a proposal the task pauses. When approval arrives, the executor applies the proposal without calling the model again, and first checks that the source file has not changed. Code changes open as a Draft MR. The one exception is the MR reviewer. It only checks someone else's MR against the repository's written rules, so it posts its thread in the MR itself and approves the commit when nothing is broken. The approval is advisory; a person decides the merge.
 
-`development` `data engineers` `Draft MR` `approvals`
+`development` `data engineers` `Draft MR` `approvals` `mr_review`
 
 Scenarios
 
